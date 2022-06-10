@@ -1,7 +1,6 @@
 Config = Config or {}
---
---# DOES NOT SUPPORT qbtarget YET #--
 
+--# DOES NOT SUPPORT qbtarget YET #--
 Config.Option = "drawtext" -- "drawtext" or "qbtarget" --
 Config.Job = "weedshop"
 Config.img = "qb-inventory/html/images/" -- Set this to your inventory
